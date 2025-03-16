@@ -1,0 +1,6 @@
+.home__title{
+  text-align: center;
+  font-size: clamp(1.6rem, 1.6rem + 2.5vw, 2.5rem);
+  color: var(--dark-blue);
+  text-wrap: balance;
+}
