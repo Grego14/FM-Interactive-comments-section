@@ -1,5 +1,23 @@
 #root {
   max-width: 80rem;
-  padding: 2rem;
   margin: 0 auto;
+}
+
+.nav {
+  padding: 1rem;
+}
+
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 3.5rem;
+  color: var(--moderate-blue);
 }
